@@ -1,5 +1,5 @@
 git{
-  "homepage": "https://oykotbruce.github.io/my-first-react-app",
+  "homepage": "http://oykotbruce.github.io/my-first-react-app",
   "name": "react-deploy",
   "version": "0.1.0",
   "private": true,
